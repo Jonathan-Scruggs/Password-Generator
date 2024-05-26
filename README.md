@@ -13,4 +13,7 @@ Simple from Scratch JS Project that serves as a password generator.
 - Math.Floor()
 - Design to code conversion
 - Understood CSS and HTML better/more practice
+- JavaScript clipboards and alerts
+- Basics of JavaScript events.
 ## Live View
+https://jonathan-scruggs.github.io/Password-Generator/
